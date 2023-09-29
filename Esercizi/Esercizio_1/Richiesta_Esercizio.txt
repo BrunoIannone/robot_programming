@@ -1,0 +1,1 @@
+Crea un cmake file per compilare l'eseguibile hello_world con hello_wold.cpp e psn.cpp
